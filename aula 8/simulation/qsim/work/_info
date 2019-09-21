@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/xXxpussylordswagxXx/Documents/merdas da uni/AC1/aula 8/simulation/qsim
+vPCupdate
+!s110 1478608408
+!i10b 1
+!s100 hPg2lg>9nZICWabZbhOT21
+IZlFk6PN4VLVhAkN`Xb49L1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1478608406
+8mips_single_cycle.vo
+Fmips_single_cycle.vo
+L0 32
+Z2 OV;L;10.4b;61
+r1
+!s85 0
+31
+!s108 1478608408.000000
+!s107 mips_single_cycle.vo|
+!s90 -work|work|mips_single_cycle.vo|
+!i113 1
+Z3 o-work work
+n@p@cupdate
+vPCupdate_vlg_vec_tst
+!s110 1478608409
+!i10b 1
+!s100 FdmbgeF;nUAj36Z@W<22Y3
+IeA1_g0>ZQ0WR^@e1fM7RX1
+R1
+R0
+w1478608400
+8PCUpdate.vwf.vt
+FPCUpdate.vwf.vt
+L0 30
+R2
+r1
+!s85 0
+31
+!s108 1478608409.000000
+!s107 PCUpdate.vwf.vt|
+!s90 -work|work|PCUpdate.vwf.vt|
+!i113 1
+R3
+n@p@cupdate_vlg_vec_tst

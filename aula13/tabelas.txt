@@ -1,0 +1,15 @@
+		Fase 1		Fase 2		Fase 3		Fase 4		Fase 5
+Nome		Ins. Fetch	Ins.Decode	Execute		Mem.access	Write Back
+PCWriteCond			
+PCWrite				
+MemWrite	0		X		
+MemRead		1		X
+IRWrite		0		1
+RegWrite	0		1
+RegDst		X		1
+ALUOp		00		X
+ALUSelA		0		1
+ALUSelB		1		0
+MemtoReg	X		X
+PCSource	0		X	
+IorD		0		X

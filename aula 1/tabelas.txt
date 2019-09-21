@@ -1,0 +1,10 @@
+e)
+	PC   Instrução   $t0  $t1  $t2
+	     t0=8         8          
+             t2=10                  10
+             t1=9              9 
+             
+
+2.b)
+	PC   Instrução   $t0  $t1  $t2
+		
